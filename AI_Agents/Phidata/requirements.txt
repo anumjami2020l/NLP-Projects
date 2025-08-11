@@ -1,0 +1,6 @@
+phidata
+packaging
+openai
+yfinance
+duckduckgo-search
+

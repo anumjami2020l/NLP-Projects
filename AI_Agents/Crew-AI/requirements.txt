@@ -1,0 +1,5 @@
+crewai
+crewai_tools
+load_dotenv
+chroma-hnswlib
+langchain-huggingface
